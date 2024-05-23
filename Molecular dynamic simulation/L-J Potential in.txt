@@ -1,0 +1,9 @@
+dt 0.005      #时间步长
+density 0.8       #流体密度
+initUcell_x 20   #方格的x大小
+initUcell_y 20   #y大小
+initUcell_z 20   #z大小
+stepAvg 100       #用来抽样统计步数
+stepEquil 0     #平衡步数
+stepLimit 500   #模拟循环数
+T 1.   #温度设置
