@@ -1,8 +1,8 @@
 dt,0.05
 density ,0.8
-initUcell_x ,20
-initUcell_y ,20
-initUcell_z ,20
+initUcell_x ,6
+initUcell_y ,6
+initUcell_z ,6
 stepAvg ,100
 stepEquil ,0
 stepLimit ,500
